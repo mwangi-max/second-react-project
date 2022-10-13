@@ -1,0 +1,19 @@
+footer{
+    text-align: center;
+    background:black;
+    color:white;
+    padding:0.5rem;
+}
+.footer{
+    color:blue;
+}
+@media (min-width:321px) {
+    footer{
+        height:10vh;
+    }
+}
+@media (min-width:500px) {
+    footer{
+        font-size: 2rem;
+    }
+}
